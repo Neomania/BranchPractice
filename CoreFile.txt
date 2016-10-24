@@ -1,1 +1,6 @@
 This is the core file on the first commit.
+
+int foo(void)
+{
+  return 5;
+}
